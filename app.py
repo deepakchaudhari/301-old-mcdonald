@@ -8,7 +8,7 @@ import pandas as pd
 
 ########### Define your variables ######
 
-tabtitle = 'Old McDonald'
+tabtitle = 'Deepak - Agriculture Data by state'
 sourceurl = 'https://plot.ly/python/choropleth-maps/'
 githublink = 'https://github.com/austinlasseter/agriculture-exports-map'
 # here's the list of possible columns to choose from.
